@@ -22,8 +22,8 @@ return array(
 		 * Facebook
 		 */
         'Facebook' => array(
-            'client_id'     => '813415875352774',
-            'client_secret' => '458fc500bf2072b44f3a8af1792e5f4f',
+            'client_id'     => 'your client id',
+            'client_secret' => 'your client secret',
             'scope'         => array('publish_actions','email','manage_pages','read_stream','user_likes','publish_stream','user_photos','create_event'),
         ),		
 
